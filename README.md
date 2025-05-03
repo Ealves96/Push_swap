@@ -3,7 +3,7 @@
 <h1/>
 
 <p align="center">
- <img src="https://res.cloudinary.com/dzo1cimyr/image/upload/v1746288764/pushswap_yuaoqq.gif"/>
+ <img src="https://res.cloudinary.com/dzo1cimyr/image/upload/v1746288764/pushswap_yuaoqq.gif" width= 800/>
 </p>
 
 ## 📝 Description
